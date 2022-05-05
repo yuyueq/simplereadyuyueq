@@ -1,0 +1,5 @@
+/node_modules/
+/yuyueq/.vuepress/
+/package.json
+/package-lock.json
+/yarn.lock
