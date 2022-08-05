@@ -1,6 +1,5 @@
 /node_modules/
 /yuyueq/.vuepress/.cache
 /yuyueq/.vuepress/.temp
-/package.json
-/package-lock.json
 /yarn.lock
+/.idea/

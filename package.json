@@ -1,0 +1,16 @@
+{
+  "name": "yuyueq",
+  "version": "2.0.0",
+  "description": "第一次尝试这个hope主题",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build yuyueq",
+    "docs:clean-dev": "vuepress dev yuyueq --clean-cache",
+    "docs:dev": "vuepress dev yuyueq"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.36",
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-theme-hope": "^2.0.0-beta.22"
+  }
+}
